@@ -1,5 +1,8 @@
 # micard
 
+![Screenshot_1661170680](https://user-images.githubusercontent.com/74422815/186864178-d19f249d-0558-4d2d-b2b2-bc95957fee25.png)
+
+
 A new Flutter project.
 
 ## Getting Started
